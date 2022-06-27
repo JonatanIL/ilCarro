@@ -23,7 +23,7 @@ public class LoginTests extends TestBase {
     }
 
     @Test
-        public void zLoginNegativeTestsWrongEmail() {
+        public void LoginNegativeTestsWrongEmail() {
         app.getHelperUser().openLoginForm();
         app.getHelperUser().fillLoginForm("jonataneitangmail.com", "Jonatan1986");
         app.getHelperUser().submitLogin();

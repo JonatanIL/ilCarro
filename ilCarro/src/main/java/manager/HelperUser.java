@@ -6,12 +6,13 @@ import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-public class HelperUser extends HelperBase{
+public class HelperUser extends HelperBase {
 
 
     public HelperUser(WebDriver wd) {
         super(wd);
     }
+
     public void openLoginForm() {
         WebElement loginTab = wd.findElement(By.xpath("//a[text()=' Log in ']"));
         loginTab.click();
@@ -33,8 +34,8 @@ public class HelperUser extends HelperBase{
 
     public boolean isLogged() {
         // sign out present? --> logged
-        List<WebElement > list =wd.findElements(By.xpath("//a[@href='/logout?url=%2Fsearch']"));
-        return list.size()>0;
+        List<WebElement> list = wd.findElements(By.xpath("//a[@href='/logout?url=%2Fsearch']"));
+        return list.size() > 0;
     }
 
     public void logout() {
