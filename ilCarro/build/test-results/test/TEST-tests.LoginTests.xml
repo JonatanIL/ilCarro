@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.LoginTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-27T22:40:47" hostname="DESKTOP-K3383S5" time="3.974">
+<testsuite name="tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-05T20:59:52" hostname="DESKTOP-K3383S5" time="0.508">
   <properties/>
-  <testcase name="LoginNegativeTestsWrongEmail" classname="tests.LoginTests" time="0.609"/>
-  <testcase name="aLoginSuccess" classname="tests.LoginTests" time="1.299"/>
+  <testcase name="loginSuccess" classname="tests.LoginTests" time="0.508"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

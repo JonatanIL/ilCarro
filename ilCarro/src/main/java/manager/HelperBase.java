@@ -4,7 +4,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-
 public class HelperBase {
     WebDriver wd;
 
@@ -12,10 +11,8 @@ public class HelperBase {
         this.wd = wd;
     }
 
-
-    public void type(By locator, String text) {
-
-        if (text != null) {
+    public void type(By locator, String text){
+        if(text!=null){
             WebElement element = wd.findElement(locator);
             element.click();
             element.clear();
@@ -23,7 +20,13 @@ public class HelperBase {
         }
     }
 
-    public void click(By locator) {
+    public void click(By locator){
         wd.findElement(locator).click();
+    }
+
+
+    public void submit(){
+        wd.findElement(By.cssSelector("button[type='submit']")).click();
+        // wd.findElement(By.xpath("//button[text()='Y’alla!']")).click();  // YЕalla!
     }
 }

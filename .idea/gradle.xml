@@ -4,11 +4,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Tools/gradle-7.4.2" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ilCarro" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Tools/gradle-7.4.2" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ilCarro" />
           </set>
         </option>
       </GradleProjectSettings>
