@@ -1,0 +1,5 @@
+7213 [Test worker] INFO  manager.ApplicationManager - All tests run browser
+7172 [Test worker] INFO  manager.ApplicationManager - All tests run browser
+8768 [Test worker] INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
+00:14:13.316  INFO  manager.ApplicationManager - All tests run browser
+00:14:15.109  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
