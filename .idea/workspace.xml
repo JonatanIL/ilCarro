@@ -5,32 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bf28c4d-f673-421c-9057-9e8708d13980" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/ilCarro.ilCarro.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperUser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/LoginTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/RegistrationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/RegistrationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/classes/tests.LoginTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/packages/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/packages/tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/TEST-tests.LoginTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/main/java/manager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/test/java/tests/LoginTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/RegistrationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/test/java/tests/RegistrationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilCarro/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +71,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/QA34_automation/ilCarro&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.AddNewCar">
+  <component name="RunManager" selected="Gradle.RegistrationTests">
     <configuration name="AddNewCar" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -101,29 +86,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;tests.AddNewCar&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginTests.LoginSuccess" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ilCarro" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;tests.LoginTests.LoginSuccess&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -156,6 +118,29 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="RegistrationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ilCarro" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tests.RegistrationTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="RegistrationTests.registrationSuccess" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -179,12 +164,36 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="RegistrationTests.registrationSuccess2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ilCarro" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tests.RegistrationTests.registrationSuccess2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.AddNewCar" />
+        <item itemvalue="Gradle.RegistrationTests" />
+        <item itemvalue="Gradle.RegistrationTests.registrationSuccess2" />
         <item itemvalue="Gradle.RegistrationTests.registrationSuccess" />
+        <item itemvalue="Gradle.AddNewCar" />
         <item itemvalue="Gradle.LoginTests.loginSuccess" />
-        <item itemvalue="Gradle.LoginTests.LoginSuccess" />
       </list>
     </recent_temporary>
   </component>

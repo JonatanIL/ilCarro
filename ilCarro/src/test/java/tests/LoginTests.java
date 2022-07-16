@@ -12,6 +12,7 @@ public class LoginTests extends TestBase {
 
         if (app.getHelperUser().isLogged()) {
             app.getHelperUser().logout();
+
         }
     }
 

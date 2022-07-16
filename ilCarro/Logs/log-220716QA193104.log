@@ -1,0 +1,3 @@
+19:31:09.398  INFO  manager.ApplicationManager - All tests run browser
+19:31:11.039  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
+19:31:11.107  INFO  tests.TestBase - start method with name--->registrationSuccess
