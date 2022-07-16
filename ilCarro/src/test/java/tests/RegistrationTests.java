@@ -56,7 +56,7 @@ public class RegistrationTests extends TestBase{
                 .setPassword("Zoa");
         app.getHelperUser().openRegistrationForm();
         app.getHelperUser().fillRegistrationForm(user);
-        app.getHelperUser().checkPolicy();
+        app.getHelperUser().checkPolicyXY();
         Assert.assertTrue(app.getHelperUser().isErrorPasswordFormatDisplayed());
         Assert.assertTrue(app.getHelperUser().isErrorPasswordSizeDisplayed());
         Assert.assertTrue(app.getHelperUser().isYallaButtoNotActive());
