@@ -6,9 +6,10 @@ import lombok.*;
 @Getter
 @ToString
 @AllArgsConstructor
-@NoArgsConstructor  //default constructor
+@NoArgsConstructor
 @Builder
 public class Car {
+
     private String address;
     private String make;
     private String model;
@@ -25,5 +26,6 @@ public class Car {
     private String price;
     private String distanceIncluded;
     private String features;
-    private String about;
+    private String  about;
+
 }

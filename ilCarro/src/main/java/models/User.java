@@ -6,7 +6,7 @@ public class User {
     private  String lastName;
     private String email;
     private String password;
-
+    private String phone;
 
     public User setName(String name) {
         this.name = name;
@@ -28,19 +28,29 @@ public class User {
         return this;
     }
 
-
+    public User setPhone(String phone) {
+        this.phone = phone;
+        return this;
+    }
 
     public String getName() {
         return name;
     }
+
     public String getLastName() {
         return lastName;
     }
+
     public String getEmail() {
         return email;
     }
+
     public String getPassword() {
         return password;
+    }
+
+    public String getPhone() {
+        return phone;
     }
 
     @Override
@@ -50,6 +60,7 @@ public class User {
                 ", lastName='" + lastName + '\'' +
                 ", email='" + email + '\'' +
                 ", password='" + password + '\'' +
+                ", phone='" + phone + '\'' +
                 '}';
     }
 }

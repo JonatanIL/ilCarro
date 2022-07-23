@@ -11,25 +11,27 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class HelperUser extends HelperBase {
+public class HelperUser extends HelperBase{
 
     public HelperUser(WebDriver wd) {
         super(wd);
     }
-
-    public void openLoginForm() {
+    public void openLoginForm(){
         //wd.findElement(By.cssSelector("a[href='/login?url=%2Fsearch']")).click();
         //wd.findElement(By.cssSelector("a[href ^='/login']")).click();
         // wd.findElement(By.xpath("//a[starts-with(@href,'/login']")).click();
         wd.findElement(By.xpath("//a[text()=' Log in ']")).click();
     }
 
-    public void fillLoginForm(String email, String password) {
-        type(By.id("email"), email);
-        type(By.id("password"), password);
-    }
+    public void fillLoginForm(String email,String password){
+        type(By.id("email"),email);
+//        takeScreenShots("C:\\Users\\Admin\\Documents\\QA34_automation\\ilCarro\\ilCarro\\src\\test\\screenshots");
 
-    public void fillLoginForm(User user) {
+        type(By.id("password"),password);
+
+
+    }
+    public void fillLoginForm(User user){
         type(By.id("email"), user.getEmail());
         type(By.id("password"), user.getPassword());
     }
@@ -39,7 +41,7 @@ public class HelperUser extends HelperBase {
     }
 
     public void fillRegistrationForm(User user) {
-        type(By.id("name"), user.getName());
+        type(By.id("name"),user.getName());
         type(By.id("lastName"), user.getLastName());
         type(By.id("email"), user.getEmail());
         type(By.id("password"), user.getPassword());
@@ -49,22 +51,22 @@ public class HelperUser extends HelperBase {
         //click(By.id("terms-of-use"));
         click(By.cssSelector("label[for='terms-of-use']"));
     }
-
     public void checkPolicyXY() {
 
         WebElement label = wd.findElement(By.cssSelector("label[for='terms-of-use']"));
         Rectangle rect = label.getRect();
-        int xOffSet = rect.getWidth() / 2;
-        int yOffSet = rect.getHeight() / 2;
+        int xOffSet=rect.getWidth()/2;
+        int yOffSet = rect.getHeight()/2;
 
         Actions actions = new Actions(wd);
-        actions.moveToElement(label, -xOffSet, 0).click().release().perform();
+        actions.moveToElement(label,-xOffSet,0).click().release().perform();
+
 
 
     }
 
     public void clickOk() {
-        if (isElementPresent(By.xpath("//button[text()='Ok']"))) {
+        if(isElementPresent(By.xpath("//button[text()='Ok']"))) {
             click(By.xpath("//button[text()='Ok']"));
         }
     }
@@ -77,6 +79,8 @@ public class HelperUser extends HelperBase {
     public void logout() {
         click(By.xpath("//a[text()=' Logout ']"));
     }
+
+
 
 
     public boolean isErrorPasswordFormatDisplayed() {
@@ -102,7 +106,7 @@ public class HelperUser extends HelperBase {
         boolean disabled = isElementPresent(By.cssSelector("button[disabled]"));
         boolean enabled = wd.findElement(By.cssSelector("[type='submit']")).isEnabled();
         System.out.println(enabled);
-        return disabled && !enabled;
+        return disabled&&!enabled;
     }
 
     public void login(User user) {
@@ -110,5 +114,11 @@ public class HelperUser extends HelperBase {
         fillLoginForm(user);
         submit();
         clickOk();
+    }
+
+    public boolean isErrorTextDisplayed() {
+        System.out.println(wd.findElement(By.cssSelector("div[class='ng-star-inserted']")).getText());
+        return new WebDriverWait(wd, Duration.ofSeconds(2)).until(ExpectedConditions
+                        .textToBePresentInElement(wd.findElement(By.cssSelector("div[class='ng-star-inserted']")), "You can't pick date before today"));
     }
 }

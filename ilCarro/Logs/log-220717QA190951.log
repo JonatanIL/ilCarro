@@ -1,0 +1,11 @@
+19:09:56.942  INFO  manager.ApplicationManager - All tests run browser
+19:09:58.652  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
+19:09:58.728  INFO  tests.TestBase - start method with name--->loginSuccess
+19:09:58.731  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+19:10:03.791  INFO  tests.TestBase - test start with email: 'jonatan@gmail.com' & password Jj12345$
+19:10:03.792  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+19:10:03.922  INFO  manager.MyListener - WebDriver start find element -->By.id: email
+19:10:04.166  INFO  manager.MyListener - WebDriver start find element -->By.id: d
+19:10:09.219  INFO  manager.MyListener - The name of method with error -->findElement
+19:10:09.220  INFO  manager.MyListener - We have a problem-->java.lang.reflect.InvocationTargetException
+19:10:09.225  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']

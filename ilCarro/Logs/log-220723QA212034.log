@@ -1,0 +1,23 @@
+21:20:41.204  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+21:20:42.940  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+21:20:43.015  INFO  tests.TestBase - Start test with name --->searchPeriodPast
+21:20:43.019  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:20:43.721  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:20:43.825  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:20:43.966  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+21:20:44.086  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.184  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.266  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.342  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.416  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.492  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.573  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:20:44.651  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+21:20:46.741  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:20:47.848  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:20:48.096  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .subtitle
+21:20:48.300  INFO  manager.MyListener - New Before find by --> By.cssSelector: button[disabled]
+21:20:48.349  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: [type='submit']
+21:20:48.390  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div[class='ng-star-inserted']
+21:20:48.438  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div[class='ng-star-inserted']
+21:20:48.477  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo

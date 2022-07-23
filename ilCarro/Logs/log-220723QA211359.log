@@ -1,0 +1,101 @@
+21:14:11.401  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+21:14:15.453  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+21:14:15.530  INFO  tests.TestBase - Start test with name --->searchAnyPeriod
+21:14:15.533  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:16.278  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:16.378  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:16.539  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:16.658  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:16.747  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:16.844  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:16.920  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.000  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.088  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.167  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.242  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.316  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.394  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.470  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 10 ']
+21:14:17.646  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:17.768  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 15 ']
+21:14:19.063  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:19.149  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:19.282  INFO  manager.MyListener - New Before find by --> By.cssSelector: .cars-container.ng-star-inserted
+21:14:20.584  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:20.996  INFO  tests.TestBase - Start test with name --->searchCurrentMonth
+21:14:20.997  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:21.785  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:21.863  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:21.974  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 28 ']
+21:14:22.062  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 27 ']
+21:14:23.159  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:23.214  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:23.332  INFO  manager.MyListener - New Before find by --> By.cssSelector: .cars-container.ng-star-inserted
+21:14:24.167  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:24.474  INFO  tests.TestBase - Start test with name --->searchCurrentYear
+21:14:24.475  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:25.201  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:25.271  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:25.377  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:25.468  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 10 ']
+21:14:25.568  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 20 ']
+21:14:26.673  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:26.723  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:26.854  INFO  manager.MyListener - New Before find by --> By.cssSelector: .cars-container.ng-star-inserted
+21:14:27.818  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:28.056  INFO  tests.TestBase - Start test with name --->searchCurrentYear2
+21:14:28.058  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:28.802  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:28.868  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:28.984  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:29.043  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 10 ']
+21:14:29.143  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:29.196  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:29.248  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 20 ']
+21:14:30.346  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:30.390  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:30.500  INFO  manager.MyListener - New Before find by --> By.cssSelector: .cars-container.ng-star-inserted
+21:14:32.201  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:32.568  INFO  tests.TestBase - Start test with name --->searchCurrentYearLocalDate
+21:14:32.569  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:33.292  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:33.438  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:33.568  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:33.646  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 10 ']
+21:14:33.746  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:33.806  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:33.852  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 20 ']
+21:14:34.943  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:34.998  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:35.122  INFO  manager.MyListener - New Before find by --> By.cssSelector: .cars-container.ng-star-inserted
+21:14:37.673  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:37.962  INFO  tests.TestBase - Start test with name --->searchNextMonth
+21:14:37.963  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:14:38.678  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:14:38.934  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:14:39.048  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:14:39.106  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 28 ']
+21:14:39.171  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 27 ']
+21:14:40.243  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:40.292  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+21:14:41.417  INFO  manager.MyListener - The name of method with error -->click
+21:14:41.423  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-gsc-c72="" type="submit">...</button> is not clickable at point (220, 382). Other element would receive the click: <span class="mat-button-wrapper">...</span>
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2043cd6908f80214fd36d52bdb359494, clickElement {id=152649ee-7d66-40f0-9bc5-0584b47257c5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53003}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53003/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2043cd6908f80214fd36d52bdb359494)] -> css selector: button[type='submit']]
+Session ID: 2043cd6908f80214fd36d52bdb359494
+21:14:41.426  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+21:14:42.527  INFO  manager.MyListener - The name of method with error -->click
+21:14:42.528  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a _ngcontent-gsc-c25="" href="/" class="logo">...</a> is not clickable at point (245, 34). Other element would receive the click: <div class="cdk-overlay-backdrop mat-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2043cd6908f80214fd36d52bdb359494, clickElement {id=7a591239-aafd-40ff-b18f-fae9ecd30674}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53003}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53003/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2043cd6908f80214fd36d52bdb359494)] -> css selector: .logo]
+Session ID: 2043cd6908f80214fd36d52bdb359494

@@ -1,0 +1,26 @@
+21:45:58.102  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+21:46:02.315  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+21:46:02.384  INFO  tests.TestBase - Start test with name --->searchPeriodPast
+21:46:02.387  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+21:46:03.100  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+21:46:03.197  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:46:03.354  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:03.491  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:03.578  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:03.660  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+21:46:03.751  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:03.853  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:03.935  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:04.016  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:04.106  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:04.263  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:04.344  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+21:46:04.418  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+21:46:06.531  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:46:07.620  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+21:46:07.896  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .subtitle
+21:46:08.109  INFO  manager.MyListener - New Before find by --> By.cssSelector: button[disabled]
+21:46:08.156  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: [type='submit']
+21:46:08.199  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div[class='ng-star-inserted']
+21:46:08.246  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div[class='ng-star-inserted']
+21:46:08.287  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo

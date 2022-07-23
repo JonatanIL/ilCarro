@@ -1,4 +1,0 @@
-19:32:30.328  INFO  manager.ApplicationManager - All tests run browser
-19:32:31.956  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
-19:32:32.022  INFO  tests.TestBase - start method with name--->registrationSuccess2
-19:32:38.808  INFO  tests.TestBase - start method with name--->registrationWrongPasswordFormatSize

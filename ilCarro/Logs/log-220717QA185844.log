@@ -1,0 +1,5 @@
+18:58:50.274  INFO  manager.ApplicationManager - All tests run browser
+18:58:53.260  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
+18:58:53.333  INFO  tests.TestBase - start method with name--->loginSuccess
+18:58:58.393  INFO  tests.TestBase - test start with email: 'jonatan@gmail.com' & password Jj12345$
+18:58:59.635  INFO  tests.TestBase - test passed

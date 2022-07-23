@@ -1,0 +1,23 @@
+18:25:00.719  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+18:25:02.393  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+18:25:02.475  INFO  tests.TestBase - Start test with name --->searchPeriodPast
+18:25:02.478  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+18:25:03.186  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+18:25:03.289  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+18:25:03.433  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:25:03.539  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+18:25:03.639  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:25:03.742  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+18:25:03.830  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+18:25:03.954  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+18:25:09.032  INFO  manager.MyListener - The name of method with error -->findElement
+18:25:09.037  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#dates"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43363f45f88c9da88f0e222e73f49368, findElement {using=id, value=dates}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59561}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59561/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 43363f45f88c9da88f0e222e73f49368
+18:25:09.043  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo

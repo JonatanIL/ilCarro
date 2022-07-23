@@ -1,0 +1,22 @@
+18:46:14.730  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+18:46:16.392  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+18:46:16.491  INFO  tests.TestBase - Start test with name --->searchPeriodPast
+18:46:16.494  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+18:46:17.208  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+18:46:17.500  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+18:46:17.645  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:46:17.753  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+18:46:17.861  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:46:17.986  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+18:46:18.082  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+18:46:21.212  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+18:46:26.256  INFO  manager.MyListener - The name of method with error -->findElement
+18:46:26.260  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#dates"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d529e361c6da1e04e3c112150d5d8673, findElement {using=id, value=dates}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64799}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64799/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d529e361c6da1e04e3c112150d5d8673

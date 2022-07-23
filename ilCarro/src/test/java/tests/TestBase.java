@@ -11,13 +11,14 @@ import java.lang.reflect.Method;
 
 public class TestBase {
 
-    Logger logger= LoggerFactory.getLogger(TestBase.class);
 
     static ApplicationManager app = new ApplicationManager();
-@BeforeMethod
-public void startLogger(Method m){
-    logger.info("start method with name--->"+m.getName());
-}
+    Logger logger = LoggerFactory.getLogger(TestBase.class);
+
+    @BeforeMethod
+    public void startLogger(Method m){
+        logger.info("Start test with name --->" +m.getName());
+    }
 
     @BeforeSuite
     public void setUp() {

@@ -1,0 +1,10 @@
+18:59:51.332  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+18:59:53.026  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+18:59:53.103  INFO  tests.TestBase - Start test with name --->searchPeriodPast
+18:59:53.106  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+18:59:53.815  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .pac-item
+18:59:53.915  INFO  manager.MyListener - WebDriver start find element -->By.id: dates
+18:59:54.061  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:59:54.169  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[@aria-label='Next month']
+18:59:54.283  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //div[text()=' 24 ']
+18:59:54.396  INFO  manager.MyListener - WebDriver start find element -->By.id: dates

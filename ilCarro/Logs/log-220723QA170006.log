@@ -1,0 +1,8 @@
+17:00:11.937  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+17:00:13.586  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+17:00:13.656  INFO  tests.TestBase - Start test with name --->loginSuccess
+17:00:13.659  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+17:00:18.714  INFO  tests.TestBase - Test start with email : 'noa@gmail.com' & password 'Nnoa12345$'
+17:00:18.715  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+17:00:18.828  INFO  manager.MyListener - WebDriver start find element -->By.id: email
+17:00:19.654  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']

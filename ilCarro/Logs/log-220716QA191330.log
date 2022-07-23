@@ -1,5 +1,0 @@
-19:13:34.845  INFO  manager.ApplicationManager - All tests run browser
-19:13:36.389  INFO  manager.ApplicationManager - Current Url ---> https://ilcarro-1578153671498.web.app/search
-19:13:36.455  INFO  tests.TestBase - start method with name--->addNewCarSuccess
-19:13:42.521  INFO  tests.TestBase - user
-19:13:42.556  INFO  tests.TestBase - car is ---->Car(address=Haifa, Israel, make=Mercedes, model=W208, year=2000, engine=2.5, fuel=Petrol, gear=AT, wD=AWD, doors=5, seats=4, clasS=C, fuelConsumption=6.5, carRegNumber=22-333-1103, price=65, distanceIncluded=800, features=type of features, about=very nice car)
