@@ -5,191 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52ad5b22-2c96-4ca1-9081-6b168a5a67bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ilCarro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA181333.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA181523.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA185758.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA185844.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA190413.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA190951.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220717QA191156.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220719QA220920.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220719QA221024.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220719QA221134.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA165633.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA170006.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA170235.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA170749.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA171027.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA171127.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA171606.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA174506.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA174913.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA175000.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA175755.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA180254.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA180420.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA180445.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA182454.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA182542.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA182621.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA182829.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA184104.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA184227.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA184609.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA184745.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA185945.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA190704.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA191100.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA191126.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA193545.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA193742.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA193934.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA194028.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA194408.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA194801.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA195346.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA195506.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA195624.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA195923.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA200147.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA200230.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA200340.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA200409.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA202916.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA203205.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA203423.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA203541.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA203830.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA203859.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204100.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204138.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204238.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204327.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204407.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA204921.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205037.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205108.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205131.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205236.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205345.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205413.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205603.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205732.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205753.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205816.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205924.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA205943.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210013.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210126.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210145.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210207.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210228.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210252.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210318.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210400.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210519.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210617.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210645.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210746.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA210936.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211024.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211100.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211359.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211708.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211749.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA211917.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212034.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212217.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212356.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212528.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212606.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212648.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212710.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212809.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA212900.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213022.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213058.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213246.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213511.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213532.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213702.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213810.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA213959.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214048.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214149.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214214.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214502.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214551.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214745.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214848.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA214938.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA215117.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/Logs/log-220723QA215155.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/HelperUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/manager/MyListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/models/Car$CarBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/models/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/main/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/AddNewCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/LoginTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/RegistrationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/SearchTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/classes/java/test/tests/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/classes/tests.SearchTests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/reports/tests/test/packages/tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/resources/test/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/TEST-tests.SearchTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/mercedes w208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/ApplicationManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/HelperUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/manager/MyListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/models/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/main/java/models/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/AddNewCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/LoginTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/RegistrationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/SearchTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/java/tests/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/src/test/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/testFile.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ilCarro/testFile1.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +46,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/QA34_automation/ilCarro"
+    "last_opened_file_path": "C:/Users/Admin/Documents/QA34_automation/QA34_PhoneBook",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
