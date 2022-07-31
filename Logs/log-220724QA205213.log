@@ -1,0 +1,145 @@
+20:52:21.185  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+20:52:22.912  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/
+20:52:22.992  INFO  tests.TestBase - Start test with name --->addNewCarSuccess
+20:52:22.995  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:52:28.041  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:52:33.060  INFO  manager.MyListener - The name of method with error -->findElement
+20:52:33.065  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:52:33.087  INFO  tests.TestBase - Start test with name --->loginSuccess
+20:52:33.088  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:52:38.108  INFO  tests.TestBase - Test start with email noa@gmail.com & password Nnoa12345$
+20:52:38.109  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:52:43.124  INFO  manager.MyListener - The name of method with error -->findElement
+20:52:43.125  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:52:43.130  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:52:48.148  INFO  tests.TestBase - Start test with name --->loginSuccess
+20:52:48.149  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:52:53.164  INFO  tests.TestBase - Test start with email sonya@gmail.com & password Ss12345$
+20:52:53.165  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:52:58.181  INFO  manager.MyListener - The name of method with error -->findElement
+20:52:58.182  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:52:58.184  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:53:03.207  INFO  tests.TestBase - Start test with name --->loginSuccess
+20:53:03.208  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:53:08.228  INFO  tests.TestBase - Test start with email noa@gmail.com & password Nnoa12345$
+20:53:08.228  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:53:13.236  INFO  manager.MyListener - The name of method with error -->findElement
+20:53:13.236  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:53:13.238  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:53:18.259  INFO  tests.TestBase - Start test with name --->loginSuccess
+20:53:18.260  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:53:23.280  INFO  tests.TestBase - Test start with email sonya@gmail.com & password Ss12345$
+20:53:23.280  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:53:28.303  INFO  manager.MyListener - The name of method with error -->findElement
+20:53:28.303  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:53:28.306  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:53:33.326  INFO  tests.TestBase - Start test with name --->loginSuccess2
+20:53:33.327  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:53:38.340  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:53:43.359  INFO  manager.MyListener - The name of method with error -->findElement
+20:53:43.360  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:53:43.362  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:53:48.376  INFO  tests.TestBase - Start test with name --->loginSuccessDP
+20:53:48.377  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:53:53.401  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:53:58.414  INFO  manager.MyListener - The name of method with error -->findElement
+20:53:58.415  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()=' Log in ']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:53:58.417  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:54:03.441  INFO  tests.TestBase - Start test with name --->loginSuccessDP
+20:54:03.442  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:54:08.462  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+20:54:12.790  INFO  manager.MyListener - The name of method with error -->findElement
+20:54:12.792  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.WebDriverException: TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=xpath, value=//a[text()=' Log in ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:54:12.795  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+20:54:12.808  INFO  manager.MyListener - The name of method with error -->findElements
+20:54:12.809  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchSessionException: WebDriver session does not exist, or is not active
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElements {using=xpath, value=//button[text()='Ok']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:54:12.823  INFO  tests.TestBase - Start test with name --->registrationSuccess
+20:54:12.826  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+20:54:13.280  INFO  manager.MyListener - The name of method with error -->findElements
+20:54:13.281  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElements {using=xpath, value=//a[text()=' Logout ']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:54:13.295  INFO  tests.TestBase - Start test with name --->searchAnyPeriod
+20:54:13.297  INFO  manager.MyListener - WebDriver start find element -->By.id: city
+20:54:13.303  INFO  manager.MyListener - The name of method with error -->findElement
+20:54:13.304  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=id, value=city}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e
+20:54:13.306  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: .logo
+20:54:13.312  INFO  manager.MyListener - The name of method with error -->findElement
+20:54:13.313  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
+Build info: version: '4.2.2', revision: '683ccb65d6'
+System info: host: 'DESKTOP-K3383S5', ip: '10.100.102.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6e59b959-278c-448f-89df-f3fb93af4a3e, findElement {using=css selector, value=.logo}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 102.0.1, moz:accessibilityChecks: false, moz:buildID: 20220705093820, moz:debuggerAddress: localhost:61280, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 24220, moz:profile: C:\Users\Admin\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), se:cdp: ws://localhost:61280/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6e59b959-278c-448f-89df-f3fb93af4a3e

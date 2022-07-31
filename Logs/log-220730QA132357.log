@@ -1,0 +1,16 @@
+13:24:04.441  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+13:24:06.013  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+13:24:06.071  INFO  tests.TestBase - Start test with name --->registrationSuccess
+13:24:06.073  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+13:24:11.126  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Sign up ']
+13:24:11.277  INFO  manager.MyListener - WebDriver start find element -->By.id: name
+13:24:11.471  INFO  manager.MyListener - WebDriver start find element -->By.id: lastName
+13:24:11.637  INFO  manager.MyListener - WebDriver start find element -->By.id: email
+13:24:11.849  INFO  manager.MyListener - WebDriver start find element -->By.id: password
+13:24:12.025  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: label[for='terms-of-use']
+13:24:12.272  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+13:24:12.370  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+13:24:12.454  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div.dialog-container
+13:24:12.920  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div.dialog-container h1
+13:24:12.983  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+13:24:13.012  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //button[text()='Ok']
