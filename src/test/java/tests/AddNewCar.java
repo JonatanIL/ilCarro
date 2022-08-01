@@ -17,6 +17,7 @@ public class AddNewCar extends TestBase{
     public void preCondition(){
         if(!app.getHelperUser().isLogged()){
             app.getHelperUser().login(new User().setEmail("noa@gmail.com").setPassword("Nnoa12345$"));
+            //
         }
     }
 

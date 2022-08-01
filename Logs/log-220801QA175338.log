@@ -1,0 +1,42 @@
+17:53:48.208  INFO  manager.ApplicationManager - All Tests run in Chrome Driver
+17:53:50.269  INFO  manager.ApplicationManager - Current Url --> https://ilcarro-1578153671498.web.app/search
+17:53:50.334  INFO  tests.TestBase - Start test with name --->loginSuccess
+17:53:50.337  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+17:53:55.406  INFO  tests.TestBase - Test start with email : noa@gmail.com & password: Nnoa12345$
+17:53:55.407  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Log in ']
+17:53:55.544  INFO  manager.MyListener - WebDriver start find element -->By.id: email
+17:53:56.366  INFO  manager.MyListener - WebDriver start find element -->By.id: password
+17:53:56.545  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+17:53:56.631  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: button[type='submit']
+17:53:56.715  INFO  manager.MyListener - WebDriver start find element -->By.cssSelector: div.dialog-container
+17:54:01.768  INFO  manager.MyListener - The name of method with error -->findElement
+17:54:01.772  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"div.dialog-container"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'DESKTOP-K3383S5', ip: '10.0.0.26', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46693e43822d390abc5da2d355182599, findElement {using=css selector, value=div.dialog-container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58969}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58969/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 46693e43822d390abc5da2d355182599
+17:54:01.777  INFO  manager.MyListener - New Before find by --> By.xpath: //button[text()='Ok']
+17:54:06.820  INFO  tests.TestBase - Start test with name --->loginSuccess
+17:54:06.821  INFO  manager.MyListener - New Before find by --> By.xpath: //a[text()=' Logout ']
+17:54:07.102  INFO  manager.MyListener - WebDriver start find element -->By.xpath: //a[text()=' Logout ']
+17:54:08.235  INFO  manager.MyListener - The name of method with error -->click
+17:54:08.236  INFO  manager.MyListener - We have a problem ---> org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a _ngcontent-bfl-c25="" class="navigation-link ng-star-inserted" href="/logout?url=%2Fsearch">...</a> is not clickable at point (1126, 34). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '4.1.4', revision: '535d840ee2'
+System info: host: 'DESKTOP-K3383S5', ip: '10.0.0.26', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [46693e43822d390abc5da2d355182599, clickElement {id=c65ede30-13a6-4023-be0a-47787efd524e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58969}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58969/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (46693e43822d390abc5da2d355182599)] -> xpath: //a[text()=' Logout ']]
+Session ID: 46693e43822d390abc5da2d355182599
+17:54:08.243  INFO  tests.TestBase - Start test with name --->loginSuccess
+17:54:08.246  INFO  tests.TestBase - Start test with name --->loginSuccess
+17:54:08.252  INFO  tests.TestBase - Start test with name --->loginSuccess2
+17:54:08.257  INFO  tests.TestBase - Start test with name --->loginSuccessDP
+17:54:08.275  INFO  tests.TestBase - Start test with name --->loginSuccessDP
+17:54:08.278  INFO  tests.TestBase - Start test with name --->loginSuccessDP
+17:54:08.281  INFO  tests.TestBase - Start test with name --->loginSuccessDP
